@@ -1042,8 +1042,7 @@
 			},
 			"h5": {
 				"typography": {
-					"fontSize": "var:preset|font-size|small",
-					"letterSpacing": "0.5px"
+					"fontSize": "var:preset|font-size|small"
 				}
 			},
 			"h6": {
