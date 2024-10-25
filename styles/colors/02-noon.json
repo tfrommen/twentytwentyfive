@@ -109,7 +109,7 @@
 			},
 			"link": {
 				"color": {
-					"text": "var:preset|color|contrast"
+					"text": "currentColor"
 				}
 			}
 		},
@@ -143,6 +143,11 @@
 							"color": {
 								"background": "color-mix(in srgb, var(--wp--preset--color--base) 85%, transparent)"
 							}
+						}
+					},
+					"heading": {
+						"color": {
+							"text": "var:preset|color|base"
 						}
 					},
 					"link": {

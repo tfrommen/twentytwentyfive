@@ -107,23 +107,7 @@
 		"blocks": {
 			"core/button": {
 				"border": {
-					"bottom": {
-						"color": "var:preset|color|contrast",
-						"style": "solid"
-					},
-					"left": {
-						"color": "var:preset|color|contrast",
-						"style": "solid"
-					},
-					"radius": "999px",
-					"right": {
-						"color": "var:preset|color|contrast",
-						"style": "solid"
-					},
-					"top": {
-						"color": "var:preset|color|contrast",
-						"style": "solid"
-					}
+					"color": "var:preset|color|contrast"
 				},
 				"shadow": "var:preset|shadow|natural",
 				"spacing": {
@@ -173,7 +157,7 @@
 				"elements": {
 					"link": {
 						"color": {
-							"text": "var:preset|color|accent-3"
+							"text": "currentColor"
 						}
 					}
 				}
@@ -185,7 +169,7 @@
 				"elements": {
 					"link": {
 						"color": {
-							"text": "var:preset|color|accent-3"
+							"text": "currentColor"
 						}
 					}
 				},
@@ -212,7 +196,7 @@
 				"elements": {
 					"link": {
 						"color": {
-							"text": "var:preset|color|accent-3"
+							"text": "currentColor"
 						}
 					}
 				}
@@ -267,7 +251,7 @@
 			},
 			"link": {
 				"color": {
-					"text": "var:preset|color|contrast"
+					"text": "currentColor"
 				}
 			}
 		},
@@ -301,6 +285,11 @@
 							"color": {
 								"background": "color-mix(in srgb, var(--wp--preset--color--base) 85%, transparent)"
 							}
+						}
+					},
+					"heading": {
+						"color": {
+							"text": "var:preset|color|base"
 						}
 					},
 					"link": {

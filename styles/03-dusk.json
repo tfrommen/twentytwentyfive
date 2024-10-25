@@ -86,7 +86,7 @@
 				"elements": {
 					"link": {
 						"color": {
-							"text": "var:preset|color|accent-2"
+							"text": "currentColor"
 						}
 					}
 				}
@@ -101,7 +101,7 @@
 				"elements": {
 					"link": {
 						"color": {
-							"text": "var:preset|color|accent-2"
+							"text": "currentColor"
 						}
 					}
 				}

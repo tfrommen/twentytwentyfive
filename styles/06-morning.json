@@ -235,7 +235,7 @@
 			},
 			"link": {
 				"color": {
-					"text": "var:preset|color|contrast"
+					"text": "currentColor"
 				}
 			}
 		},

@@ -123,7 +123,7 @@
 			},
 			"heading": {
 				"color": {
-					"text": "currentColor"
+					"text": "var:preset|color|contrast"
 				}
 			},
 			"link": {

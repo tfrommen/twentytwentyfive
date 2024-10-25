@@ -66,18 +66,6 @@
 						}
 					}
 				}
-			},
-			"core/site-tagline": {
-				"color": {
-					"text": "var:preset|color|accent-4"
-				},
-				"elements": {
-					"link": {
-						"color": {
-							"text": "var:preset|color|accent-4"
-						}
-					}
-				}
 			}
 		},
 		"elements": {
@@ -99,11 +87,6 @@
 						"right": "1.6rem",
 						"top": "0.6rem"
 					}
-				}
-			},
-			"link": {
-				"color": {
-					"text": "var:preset|color|accent-4"
 				}
 			}
 		},
