@@ -42,6 +42,54 @@
 						}
 					}
 				}
+			},
+			"core/comment-author-name": {
+				"color": {
+					"text": "currentColor"
+				},
+				"elements": {
+					"link": {
+						"color": {
+							"text": "currentColor"
+						}
+					}
+				}
+			},
+			"core/comment-date": {
+				"color": {
+					"text": "currentColor"
+				},
+				"elements": {
+					"link": {
+						"color": {
+							"text": "currentColor"
+						}
+					}
+				}
+			},
+			"core/comment-edit-link": {
+				"color": {
+					"text": "currentColor"
+				},
+				"elements": {
+					"link": {
+						"color": {
+							"text": "currentColor"
+						}
+					}
+				}
+			},
+			"core/comment-reply-link": {
+				"color": {
+					"text": "currentColor"
+				},
+				"elements": {
+					"link": {
+						"color": {
+							"text": "currentColor"
+						}
+					}
+				}
 			}
 		}
 	}
