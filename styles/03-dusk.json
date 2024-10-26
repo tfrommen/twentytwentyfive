@@ -60,6 +60,7 @@
 			"letterSpacing": "-0.18px",
 			"lineHeight": "1.5"
 		},
+		"css": ".wp-block-heading.is-style-text-annotation {padding-bottom:0.15rem;}",
 		"blocks": {
 			"core/code": {
 				"color": {
