@@ -241,7 +241,8 @@
 			},
 			"h5": {
 				"typography": {
-					"fontSize": "var:preset|font-size|medium"
+					"fontSize": "var:preset|font-size|medium",
+					"letterSpacing": "normal"
 				}
 			},
 			"h6": {
