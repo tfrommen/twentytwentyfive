@@ -245,7 +245,7 @@
 						"css": "& textarea, input:not([type=submit]){border-radius:.25rem; border-color: color-mix(in srgb, currentColor 20%, transparent) !important;} & input[type=checkbox]{margin:0 .2rem 0 0 !important;} & label {font-size: var(--wp--preset--font-size--small); }"
 					},
 					"core/search": {
-						"css": "& .wp-block-search__input{border-color: color-mix(in srgb, currentColor 20%, transparent) !important;}"
+						"css": "& .wp-block-search__input{border-color: color-mix(in srgb, currentColor 20%, transparent);}"
 					}
 				}
 			}
